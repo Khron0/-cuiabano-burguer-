@@ -245,6 +245,11 @@ section {
   text-align: center;
   align-items: center;
 }
+
+#home .title {
+    font-size: 3rem;
+}
+
 /* Section Menu */
 #menu {
   display: flex;
