@@ -96,7 +96,7 @@ Agora é só executar o arquivo index.html com a extensão Live Server, clique c
 Pronto! dessa forma o projeto `Cuiabano Burguer` estará rodando localmente em sua maquina. Acesse no navegador o endereço abaixo:
 
 ```
-http://127.0.0.1:5500/index.html
+ https://khron0.github.io/cuiabano-burguer/
 ```
 
 <br>
