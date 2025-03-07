@@ -118,7 +118,7 @@ Caso tenha dúvidas sobre o código do projeto, sintam-se a vontade em abrir uma
 
 <p>Este projeto é de código aberto e pode ser utilizado para estudos e aprimoramento. 📜</p>
 
-Para mais detalhes sobre a licença: [clique aqui](/https://khron0.github.io/-cuiabano-burguer-/LICENSE)
+Para mais detalhes sobre a licença: [clique aqui](.github/https://khron0.github.io/-cuiabano-burguer-/LICENSE)
 
 <br>
 
